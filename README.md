@@ -59,7 +59,8 @@ Recommended Use:
 The Project Structure:
 ---------------------
 
-kabeltrommel-configurator/
+cable-reel-configurator/
+
 │
 
 ├─ web/
