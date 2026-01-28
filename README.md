@@ -61,18 +61,31 @@ The Project Structure:
 
 kabeltrommel-configurator/
 │
+
 ├─ web/
+
 │  └─ index.html        Web configurator UI
+
 │
+
 ├─ openscad/
+
 │  ├─ spool.scad        Parametric cable spool
+
 │  ├─ foot.scad         Standalone foot module
+
 │  ├─ rod_mount.scad    Rack / rod mounting module
+
 │  └─ config.scad       Auto-generated configuration
+
 │
+
 ├─ export/              Generated STL files (not tracked)
+
 │
+
 ├─ LICENSE
+
 └─ README.txt
 
 
