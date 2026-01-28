@@ -111,13 +111,6 @@ What I still want to do:
 - Versioned releases
 
 
-My Philosophy:
--------------
-
-This is not a hobby script.
-It is a reproducible, modular, and scalable workshop tool system.
-
-
 My Motivations:
 --------------
 
